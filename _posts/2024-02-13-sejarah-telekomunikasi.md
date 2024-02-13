@@ -1,6 +1,6 @@
 1. SEJARAH TELEKOMUNIKASI
 
-    Sejarah telekomunikasi mencakup perkembangan teknologi yang memungkinkan pertukaran informasi antara individu atau entitas di lokasi yang berbeda. Berikut adalah rangkuman singkat sejarah telekomunikasi:
+        Sejarah telekomunikasi mencakup perkembangan teknologi yang memungkinkan pertukaran informasi antara individu atau entitas di lokasi yang berbeda. Berikut adalah rangkuman singkat sejarah telekomunikasi:
   Komunikasi Awal:
   Abad ke-4 SM: Penggunaan sinyal asap dan api sebagai bentuk komunikasi awal.
   Abad ke-18 SM: Penggunaan sinyal suara dari lonceng dan obor.
